@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+    text-align: center;
+    margin-top: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+header{
+    text-align: center;
+    color: azure;
+    background-color: brown;
+}
